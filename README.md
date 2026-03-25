@@ -1,4 +1,4 @@
-# @rangerisrael/camera-capture
+# @devisrael_28/camera-capture
 
 A React component for photo capture and video recording using the browser MediaStream API.
 
