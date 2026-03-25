@@ -1,5 +1,5 @@
 {
-  "name": "@rangerisrael/camera-capture",
+  "name": "@devisrael_28/camera-capture",
   "version": "1.0.0",
   "description": "React component for photo capture and video recording using the browser MediaStream API",
   "type": "module",
